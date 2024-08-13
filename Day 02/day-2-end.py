@@ -1,12 +1,12 @@
 
 # ? Type Error, Type Checking and Type Conversion
 
-# Type Error
+# Type Error 
 # len(1234) # TypeError: object of type 'int' has no len()
 
 # Type Checking
 print(type(1234)) # <class 'int'>
-print(type(1234.0)) # <class 'float'>
+print(type(1234.0)) # <class 'float'>  
 print(type("1234")) # <class 'str'>
 
 # Type Conversion

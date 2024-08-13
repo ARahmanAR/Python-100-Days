@@ -27,4 +27,4 @@ tip_percent = tip / 100
 total_bill += total_bill * tip_percent
 bill_per_person = total_bill / people
 final_amount = "{:.2f}".format(bill_per_person) # Another way to round the number to 2 decimal places using format method in string class in python.
-print(f"Each person should pay: ${final_amount}")
+print(f"Each person should pay: ${final_amount})
